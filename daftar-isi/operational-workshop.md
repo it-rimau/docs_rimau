@@ -1,3 +1,3 @@
 # Operational WORKSHOP
 
-{% embed url="https://muhammad-deril-putra.gitbook.io/operational-workshop/" %}
+{% embed url="https://it-rimau.gitbook.io/operational-workshop/" %}

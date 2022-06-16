@@ -1,5 +1,3 @@
 # Operational Hauling
 
-
-
-{% embed url="https://muhammad-deril-putra.gitbook.io/operational-hauling/" %}
+{% embed url="https://it-rimau.gitbook.io/operational-hauling/" %}

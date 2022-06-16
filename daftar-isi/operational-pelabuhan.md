@@ -1,3 +1,3 @@
 # Operational Pelabuhan
 
-{% embed url="https://muhammad-deril-putra.gitbook.io/operational-pelabuhan/" %}
+{% embed url="https://it-rimau.gitbook.io/operational-pelabuhan/" %}
