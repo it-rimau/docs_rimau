@@ -6,33 +6,33 @@
 
 Tabel ini menginformasikan list supir, operator, fuelman, dan pengawas yang terdaftar. List ini digunakan unutk pengupahan supir/operator
 
-Tabel ini bisa menambah, mengedit dan menghapus data supir&#x20;
+Tabel ini bisa menambah, mengedit dan menghapus data supir
 
 ### TAMBAH SUPIR FOREMAN
 
 ![](<../../.gitbook/assets/tambah supir foreman.PNG>)
 
-Form ini digunkana untuk menambahkan supir  dan foreman untuk kendaraan rimau
+Form ini digunkana untuk menambahkan supir dan foreman untuk kendaraan rimau
 
-* Nama : Masukan nama supir tersebut&#x20;
+* Nama : Masukan nama supir tersebut
 * Alamat : Alamat rumah supir
-* tgl lahir : tanggal lahir supir&#x20;
+* tgl lahir : tanggal lahir supir
 * No HP : Nomer handphone supir
 * Jabatan : Jabatan yang diberikan pada user baru (DRIVER, PENGAWAS, DAN FUELMAN)
 * Sub Jabatan : Subjabatan
 * PT : Tempat perusahaan supir tersebut (Masukan dengan list yang disediakan)
 * Divisi : divisi perusahaan (Masukan dengan list yang disediakan)
-* Jika sudah terisi semua klik tambah&#x20;
+* Jika sudah terisi semua klik tambah
 
 ### EDIT/RUBAH DATABASE
 
 ![](../../.gitbook/assets/EDITrubahdatabase.PNG)
 
-Form ini digunakan untuk merubah atau mengedit jika data supir memiliki kesalahan&#x20;
+Form ini digunakan untuk merubah atau mengedit jika data supir memiliki kesalahan
 
-* Nama : Masukan nama supir tersebut&#x20;
+* Nama : Masukan nama supir tersebut
 * Alamat : Alamat rumah supir
-* tgl lahir : tanggal lahir supir&#x20;
+* tgl lahir : tanggal lahir supir
 * No HP : Nomer handphone supir
 * Jabatan : Jabatan yang diberikan pada user baru (DRIVER, PENGAWAS, DAN FUELMAN)
 * Sub Jabatan : Subjabatan
@@ -40,4 +40,4 @@ Form ini digunakan untuk merubah atau mengedit jika data supir memiliki kesalaha
 * Divisi : divisi perusahaan (Masukan dengan list yang disediakan)
 *   Jika sudah terisi semua klik tambah
 
-    ###
+    ####

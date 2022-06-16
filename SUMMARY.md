@@ -52,7 +52,7 @@
   * [Pengeluaran BBM TAMBANG](daftar-isi/laporan-tambang/pengeluaran-bbm-tambang.md)
   * [Per Kendaraan](daftar-isi/laporan-tambang/per-kendaraan.md)
   * [Tipe Kendaraan](daftar-isi/laporan-tambang/tipe-kendaraan.md)
-  * [Gruop Kendaraan](daftar-isi/laporan-tambang/gruop-kendaraan.md)
+  * [Group Kendaraan](daftar-isi/laporan-tambang/gruop-kendaraan.md)
   * [BBM Semua Kendaraan](daftar-isi/laporan-tambang/bbm-semua-kendaraan.md)
   * [BBM Gruop By Cost Center](daftar-isi/laporan-tambang/bbm-gruop-by-cost-center.md)
   * [DT HAULING](daftar-isi/laporan-tambang/dt-hauling.md)

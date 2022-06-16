@@ -1,12 +1,12 @@
-# Gruop Kendaraan
+# Group Kendaraan
 
-### FORM GRUOP KENDARAAN
+### FORM GROUP KENDARAAN
 
 ![](<../../.gitbook/assets/formgruop kendaraan.PNG>)
 
 Form ini digunakan untuk melihat informasi di setiap group kendaraan yang dipilih. Carilah group kendaraan sesuai dengan list yang telah di sediakan
 
-### PEMAKAIAN BBM GRUOP KENDARAAN
+### PEMAKAIAN BBM GROUP KENDARAAN
 
 ![](<../../.gitbook/assets/Screenshot (12).png>)
 
